@@ -25,6 +25,9 @@
   </ol>
 </details>
 
+## Design in figma 
+[Figma Prototype](https://www.figma.com/file/DDr1AFUM2Q4wMervENqkeL/jazzbike?node-id=0%3A1)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- ABOUT THE PROJECT -->
